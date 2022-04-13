@@ -1,7 +1,4 @@
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=theracc2&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[Twitter](https://twitter.com/racc0x2)
-
-[Youtube](https://www.youtube.com/channel/UCNIEOuzs3EZQ6fpiJGzSZ2w)
-
-[Twitch](https://www.twitch.tv/racc2/)
+• Hello! I'm Liam James, a software developer from the United States.
+• I'm currently in school, so if you have any inquires about a possible position or question, email me ([liam.james@ymail.com]( mailto:liam.james@ymail.com?subject=From%20Github)
